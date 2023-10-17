@@ -2,5 +2,4 @@ This program requires gimp to open the images. The objective is to crop the imag
 
 P.S. tools.hpp and tools.cpp are files provided by the professor. They contain the libraries  of both c and c++, function like banner(Contains program name and number, student name, course number, date and time), bye(call at the end of all successfull runs) and fatal(for debugging purposes). Also a using namespace std to remove the need for std:: and for clarity
 
-IDE: VSCode
-Compiler: GNU g++
+Created using Replit
