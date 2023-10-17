@@ -1,5 +1,0 @@
-For this program I crop the photo midday.pgm by using the given imformation from converting the image to midday.txt.
-With this I was able to crop the image at the size i wanted it to be at and created the crop image cropped.pgm.
-
-To open the .pgm you'll need Gimp(GNU Image Manipulation Program) application.
-The program was written VScode using GNU g++ compiler.
